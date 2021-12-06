@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me : https://www.linkedin.com/in/kuldeeprajpurohit/
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/kuldeeprajpurohit)
 
 <!---
 Kuldeep-SinghR/Kuldeep-SinghR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
