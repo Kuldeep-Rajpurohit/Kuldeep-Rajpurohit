@@ -14,5 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Kuldeeps's github stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Rajpurohit&show_icons=true&hide_border=true)
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Rajpurohit)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kuldeep-rajpurohit.kuldeep-rajpurohit)
 --->
