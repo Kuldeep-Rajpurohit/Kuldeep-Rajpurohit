@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kuldeep
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning AI and ML
+- 👀 I’m interested in DevOps
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/kuldeeprajpurohit)
 
