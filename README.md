@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kuldeep
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Developing code and solutions to problems
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/kuldeeprajpurohit)
 
